@@ -3,7 +3,7 @@ A neural network that can colorize black-and-white photos.
 examples of coloring photos:
   left - black and white option.
   center-neural network response.
-  right-source photo.\\
+  right-source photo.\
 
 
 
